@@ -13,3 +13,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omars32&repo=Github_Readme" />
 </a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Omars32&repo=Github_Readme-stats)](https://github.com/anuraghazra/github-readme-stats)
