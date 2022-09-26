@@ -1,5 +1,5 @@
 # Github_Readme
-Stats:
+## Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omars32)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -12,5 +12,5 @@ Stats:
 *//// Card Layout
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omars32&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 
-WakaTime
+## WakaTime
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Omars32)](https://github.com/anuraghazra/github-readme-stats)
